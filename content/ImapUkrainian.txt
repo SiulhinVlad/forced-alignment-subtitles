@@ -1,0 +1,54 @@
+а;a
+б;b
+в;v
+г;h
+ґ;g
+д;d
+е;e
+є;j e
+ж;z
+з;z
+и;y
+і;i
+ї;j i
+й;j
+к;k
+л;l
+м;m
+н;n
+о;o
+п;p
+р;r
+с;s
+т;t
+у;u
+ф;f
+х;x
+ц;c
+ч;c h
+ш;s h
+щ;s h c h 
+ь;'
+ю;j u
+я;j a
+д#;t
+set CONS д;d
+set CONS т;t
+$CONS$і;.' i
+0;n u l l
+1;o d y n
+2;d v a
+3;t r y 
+4;c h o t y r y 
+5;p y a t
+6;s c h i s t
+7;s i m 
+8;v i s i m
+9;d e v y a t
+10;d e s y a t
+11;o d y n n a d c y a t
+12;d v a n a d c y a t
+13;t r y n a d c y a t 
+20;d v a d c a t
+30;t r y d c a t
+100;s t o
